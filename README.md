@@ -10,6 +10,8 @@
  I'm currently an undergraduate student in Science and Technology at Ilum School of Science from Brazilian Center of Research in Energy and Materials <a href="https://cnpem.br" class="botao">(CNPEM)</a> conducting research on chiral metallic nanomaterials. My personal interest is in Bionanotechnology and Biology, but im open to study AI foo human health!
 </div>
 
+
+
 <div align="center">
 <a href="https://instagram.com/cientistabinho" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="http://lattes.cnpq.br/0913262665776521" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Lattes-%230055A4?style=for-the-badge&logo=Lattes&logoColor=white" target="_blank"></a>
