@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-<a href="https://instagram.com/naoliiiiii" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/cientistabinho" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="http://lattes.cnpq.br/0913262665776521" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Lattes-%230055A4?style=for-the-badge&logo=Lattes&logoColor=white" target="_blank"></a>
 <a href = "mailto:naoli.glauber@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/glauber-naoli" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
