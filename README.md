@@ -7,7 +7,9 @@
 <h1 align="center"> Hi! I'm Glauber =) </h1>
 
 <div align="justify">
- I'm currently an undergraduate student in Science and Technology at Ilum School of Science from Brazilian Center of Research in Energy and Materials <a href="https://cnpem.br" class="botao">(CNPEM)</a> conducting research on chiral metallic nanomaterials. My personal interest is in Bionanotechnology and Biology, but im open to study AI foo human health!
+ ⭐ I'm currently an undergraduate student in Science and Technology at Ilum School of Science from Brazilian Center of Research in Energy and Materials <a href="https://cnpem.br" class="botao">(CNPEM)</a> conducting research on chiral metallic nanomaterials. 
+
+ 🌻 My personal interest is in Bionanotechnology and Biology, but im open to study AI for human health!
 </div>
 
 
